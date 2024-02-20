@@ -1,0 +1,14 @@
+C:\Users\ramkicad01\Desktop\CADBATCH\CSharp\firstconsoledemo\bin\Debug\net7.0\firstconsoledemo.exe
+C:\Users\ramkicad01\Desktop\CADBATCH\CSharp\firstconsoledemo\bin\Debug\net7.0\firstconsoledemo.deps.json
+C:\Users\ramkicad01\Desktop\CADBATCH\CSharp\firstconsoledemo\bin\Debug\net7.0\firstconsoledemo.runtimeconfig.json
+C:\Users\ramkicad01\Desktop\CADBATCH\CSharp\firstconsoledemo\bin\Debug\net7.0\firstconsoledemo.dll
+C:\Users\ramkicad01\Desktop\CADBATCH\CSharp\firstconsoledemo\bin\Debug\net7.0\firstconsoledemo.pdb
+C:\Users\ramkicad01\Desktop\CADBATCH\CSharp\firstconsoledemo\obj\Debug\net7.0\firstconsoledemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramkicad01\Desktop\CADBATCH\CSharp\firstconsoledemo\obj\Debug\net7.0\firstconsoledemo.AssemblyInfoInputs.cache
+C:\Users\ramkicad01\Desktop\CADBATCH\CSharp\firstconsoledemo\obj\Debug\net7.0\firstconsoledemo.AssemblyInfo.cs
+C:\Users\ramkicad01\Desktop\CADBATCH\CSharp\firstconsoledemo\obj\Debug\net7.0\firstconsoledemo.csproj.CoreCompileInputs.cache
+C:\Users\ramkicad01\Desktop\CADBATCH\CSharp\firstconsoledemo\obj\Debug\net7.0\firstconsoledemo.dll
+C:\Users\ramkicad01\Desktop\CADBATCH\CSharp\firstconsoledemo\obj\Debug\net7.0\refint\firstconsoledemo.dll
+C:\Users\ramkicad01\Desktop\CADBATCH\CSharp\firstconsoledemo\obj\Debug\net7.0\firstconsoledemo.pdb
+C:\Users\ramkicad01\Desktop\CADBATCH\CSharp\firstconsoledemo\obj\Debug\net7.0\firstconsoledemo.genruntimeconfig.cache
+C:\Users\ramkicad01\Desktop\CADBATCH\CSharp\firstconsoledemo\obj\Debug\net7.0\ref\firstconsoledemo.dll
